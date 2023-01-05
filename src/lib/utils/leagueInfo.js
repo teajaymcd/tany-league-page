@@ -28,8 +28,8 @@ export const managers = [
       "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "TJ McDonald",
 //      "tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-//      "location": "null", // (optional)
-      "bio": "Lorem ipsum...",
+      "location": "winner's circle", // (optional)
+      "bio": "The Commish. A fantasy football freak. Perpetually in too many leagues every year, yet there still just isn't enough fantasy football. One of the founding members of TANY, TJ was the league's first champion, and it's first repeat champion again 5 years later. If you're looking for a dynasty, look no further.",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2005, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "phi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
